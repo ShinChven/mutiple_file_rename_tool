@@ -1,5 +1,5 @@
 {
-    "name": "copy_multiple_file_with_name_prefix_and_suffix",
+    "name": "multiple_rename",
     "version": "0.1.0",
     "main": "main.js",
     "author":"shinchven",
