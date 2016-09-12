@@ -1,0 +1,13 @@
+{
+    "name": "multiple_rename",
+    "version": "0.1.0",
+    "main": "main.js",
+    "author":"ShinChven Zhang",
+    "scripts":{
+        "start":"electron ."
+    },
+    "devDependencies": {
+        "electron": "^1.3.4"
+    },
+    "description": "multiple file rename tool"
+}
